@@ -6,3 +6,6 @@ function klikk() {
         dropdownElm.style.display = "flex"
     }
 }
+function dakrMode() {
+    document.body.style.backgroundColor = "black"
+}
